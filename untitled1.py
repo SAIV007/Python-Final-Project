@@ -16,6 +16,8 @@ import pandas as pd
 import joblib
 import json
 import os
+pip install joblib
+
 
 # ---------------------------------------------------------------
 # PAGE CONFIG
